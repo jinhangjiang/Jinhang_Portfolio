@@ -13,4 +13,4 @@
 ###### Location: The University of Kansas *Lawrence, KS*
 ###### Description: I analyzed over 200 million EHR to build a network model, predicting diseases for high-cost patients at POA.
 
-<img src="images/network-3849202_1920.jpg" width="1000" longdesc="350" usemap="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
+<img src="images/network-3849202_1920.jpg" width="1000" height="350" longdesc="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
