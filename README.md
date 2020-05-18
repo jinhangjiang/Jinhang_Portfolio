@@ -8,9 +8,9 @@
 # Projects
 
 ## [Analyzing Disease Co-occurrence Using NetworkX, Gephi, and Node2Vec](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f)
-Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan)
-Date: May 4. 2020
-Location: The University of Kansas *Lawrence, KS*
-Description: I analyzed over 200 million EHR to build a network model, predicting diseases for high-cost patients at POA.
+###### Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan)
+###### Date: May 4. 2020
+###### Location: The University of Kansas *Lawrence, KS*
+###### Description: I analyzed over 200 million EHR to build a network model, predicting diseases for high-cost patients at POA.
 
 ![](/images/network-3849202_1920.jpg)
