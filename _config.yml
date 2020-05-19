@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: Jiang Analytics
+description: This potofolio contains all the major findings and summaries of my researches and data science projects since May 2020
 logo: "images/selfie.jpg"
 show_downloads: "true"
 google_analytics: UA-165877076-4
