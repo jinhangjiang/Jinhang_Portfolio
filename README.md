@@ -3,6 +3,12 @@
 #### <img src="images/linkedin1.png" width="15" height="15"> [My LinkedIn Profile](https://www.linkedin.com/in/jinhangjiang/)
 #### <img src="images/medium.png" width="15" height="15"> [My Medium Profile](https://medium.com/@jinhangjiang)
 
+# Certifications
+[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/CMHDALHFR5JS) | *University of Michigan* | *Coursera* | *Mar 23, 2020* <br />
+[Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/cbff88d7e6a18fafd35d9771c9a530dd139120f7) | *DataCamp* | *Feb 1, 2020*<br/>
+[Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/a8d348f47178e9022508e287a52b5e684975c91c) | *DataCamp* | *Jan 29, 2020*<br/>
+
+
 
 # Projects
 
