@@ -13,7 +13,7 @@
 ###### Location: The University of Kansas *Lawrence, KS*
 ###### Description: I calculated Boilerplate score for 1431 companies' scoial responsibility reports. Here is a demonstration.
 
-<a href="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
+<a href="https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d">
 <img src="images/boilerplate.jpg" width="500" height="175" alt="https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d">
 </a>
 
