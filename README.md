@@ -1,9 +1,6 @@
 *This potofolio contains all the major findings and summaries of my researches and data science projects since May 2020*
 # Jinhang Jiang  
 *MS Business Analytics Candidate at ASU W.P Carey 21' | Research Assistant at University of Kansas*
-<div style="float: left;"><img src="images/selfie.jpg" width="204.8" height="102.4"/>
-</div>
-
 #### <img src="images/linkedin1.png" width="15" height="15"> [My LinkedIn Profile](https://www.linkedin.com/in/jinhangjiang/)
 #### <img src="images/medium.png" width="15" height="15"> [My Medium Profile](https://medium.com/@jinhangjiang)
 
