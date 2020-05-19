@@ -17,7 +17,8 @@
 <a href="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
 <img src="images/boilerplate.jpg" width="500" height="175" alt="https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d">
 </a>
-#
+
+
 ## [Analyzing Disease Co-occurrence Using NetworkX, Gephi, and Node2Vec](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f)
 ###### Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan)
 ###### Published on: Analytics Vidhya's Medium Publication
