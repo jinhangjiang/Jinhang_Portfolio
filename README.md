@@ -8,8 +8,8 @@
 
 ## [Use R to Calculate Boilerplate for Accounting Analysis](https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d)
 ###### Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan)
-###### Published on: Medium.com
-###### Date: May 18, 2020
+###### Published on: Towards Data Science | medium.com
+###### Date: May 19, 2020
 ###### Location: The University of Kansas *Lawrence, KS*
 ###### Description: I calculated Boilerplate score for 1431 companies' scoial responsibility reports. Here is a demonstration.
 
