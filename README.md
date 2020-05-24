@@ -1,8 +1,8 @@
 # Jinhang Jiang  
 *MS Business Analytics Candidate at ASU W.P Carey 21' | Research Assistant at The University of Kansas School of Business*
-#### <img src="images/linkedin1.png" width="20" height="20"> [LinkedIn Profile](https://www.linkedin.com/in/jinhangjiang/)
-#### <img src="images/medium.png" width="20" height="20"> [Medium Profile](https://medium.com/@jinhangjiang)
-#### <img src="images/stack.png" width="20" height="20"> [Stackoverflow Profile](https://stackoverflow.com/users/13609600/jinhang-jiang?tab=profile)
+### <img src="images/linkedin1.png" width="20" height="20"> [LinkedIn Profile](https://www.linkedin.com/in/jinhangjiang/)
+### <img src="images/medium.png" width="20" height="20"> [Medium Profile](https://medium.com/@jinhangjiang)
+### <img src="images/stack.png" width="20" height="20"> [Stackoverflow Profile](https://stackoverflow.com/users/13609600/jinhang-jiang?tab=profile)
 #### <img src="images/Kaggle1.png" width="40" height="20"> [Kaggle Profile](https://www.kaggle.com/jinhangjiang)
 
 
