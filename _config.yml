@@ -1,6 +1,27 @@
 theme: jekyll-theme-minimal
-title: Jiang Analytics
+
+title: Personal Homepage
+Author: Jinhang Jiang
+
 description: This potofolio contains all the major findings and summaries of my researches and data science projects since May 2020
+
 logo: "images/selfie.jpg"
+
 show_downloads: "true"
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  
 google_analytics: UA-165877076-4
+
+
+social-network-links:
+  email: "jinhang.analytics@gmail.com"
+  facebook: "https://www.facebook.com/profile.php?id=100007507575346"
+  github: "https://github.com/jinhangjiang"
+  twitter: "https://twitter.com/JJinhang"
+  linkedin: "https://www.linkedin.com/in/jinhangjiang/"
+  stackoverflow: "https://stackoverflow.com/users/13609600/jinhang-jiang?tab=profile“
+  kaggle: "https://www.kaggle.com/jinhangjiang"
