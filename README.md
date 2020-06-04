@@ -8,6 +8,7 @@
 
 # Certifications
 ## *Coursera*
+[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/QND2LKZC9Q9M) | *University of Michigan* | *Jun 3, 2020*<br />
 [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/J9FWMZMDPSRP) | *University of Michigan* | *May 27, 2020* <br />
 [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/CMHDALHFR5JS) | *University of Michigan* | *Mar 23, 2020* <br />
 ## *DataCamp*
