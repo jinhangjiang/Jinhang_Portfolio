@@ -19,6 +19,18 @@
 
 # Projects
 
+## [Simple Weighted Average Ensemble | Machine Learning](https://medium.com/@jinhangjiang/simple-weighted-average-ensemble-machine-learning-777824852426)
+Author: Jinhang Jiang   <br />
+Published on: medium.com <br />
+Date: Oct 13, 2020 <br />
+Location: Arizona State University | *Tempe, AZ* <br />
+Description: This is a walk-through about how to apply the weighted average ensemble to improve your prediction scores..
+
+<a href="https://medium.com/@jinhangjiang/simple-weighted-average-ensemble-machine-learning-777824852426">
+<img src="images/Kaggle1.png" width="500" height="175" alt="https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d">
+</a>
+
+
 ## [Use R to Calculate Boilerplate for Accounting Analysis](https://medium.com/@jinhangjiang/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d)
 Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan) <br />
 Published on: Towards Data Science | medium.com <br />
