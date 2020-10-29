@@ -6,7 +6,6 @@
 ### <img src="images/Kaggle1.png" width="40" height="20"> [Kaggle Profile](https://www.kaggle.com/jinhangjiang)
 
 
-
 # Featured Work
 ## [Simple Weighted Average Ensemble | Machine Learning](https://medium.com/@jinhangjiang/simple-weighted-average-ensemble-machine-learning-777824852426)
 Author: Jinhang Jiang   <br />
