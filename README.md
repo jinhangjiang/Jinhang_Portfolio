@@ -18,8 +18,6 @@
 
 
 # Featured Projects
-
-<br />
 ## [Simple Weighted Average Ensemble | Machine Learning](https://medium.com/@jinhangjiang/simple-weighted-average-ensemble-machine-learning-777824852426)
 Author: Jinhang Jiang   <br />
 Published on: medium.com <br />
