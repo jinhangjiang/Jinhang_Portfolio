@@ -6,18 +6,8 @@
 ### <img src="images/Kaggle1.png" width="40" height="20"> [Kaggle Profile](https://www.kaggle.com/jinhangjiang)
 
 
-# Certifications
-## *Coursera*
-[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/QND2LKZC9Q9M) | *University of Michigan* | *Jun 3, 2020*<br />
-[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/J9FWMZMDPSRP) | *University of Michigan* | *May 27, 2020* <br />
-[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/CMHDALHFR5JS) | *University of Michigan* | *Mar 23, 2020* <br />
-## *DataCamp*
-[Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/cbff88d7e6a18fafd35d9771c9a530dd139120f7) | *Feb 1, 2020*<br/>
-[Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/a8d348f47178e9022508e287a52b5e684975c91c) | *Jan 29, 2020*<br/>
 
-
-
-# Featured Projects
+# Featured Work
 ## [Simple Weighted Average Ensemble | Machine Learning](https://medium.com/@jinhangjiang/simple-weighted-average-ensemble-machine-learning-777824852426)
 Author: Jinhang Jiang   <br />
 Published on: medium.com <br />
