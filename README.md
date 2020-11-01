@@ -28,7 +28,7 @@ Location: Arizona State University | *Tempe, AZ* <br />
 Description: This project aimed to study how the unstructured text data could add values to a machine learning classification project.
 
 <a href="https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9">
-<img src="images/text.gng" width="500" height="175" alt="https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9">
+<img src="images/text.png" width="500" height="175" alt="https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9">
 </a>
 
 <br />
