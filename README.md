@@ -9,6 +9,30 @@
 
 # Featured Work
 <br />
+## [Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT](https://towardsdatascience.com/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f)
+Author: Jinhang Jiang  <br />
+Published on: towardsdatascience.com <br />
+Date: May 10, 2021 <br />
+Location: Arizona State University | *Tempe, AZ* <br />
+Description: A walk-through about how I increased 4.6% accuracy on a small customer churn dataset with the customer service notes.
+
+<a href="https://towardsdatascience.com/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f">
+<img src="images/CustChurn1.png" width="500" height="175" alt="https://towardsdatascience.com/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f">
+</a>
+
+<br />
+## [LOL Match Prediction Using Early Laning Phase Data | Machine Learning](https://towardsdatascience.com/lol-match-prediction-using-early-laning-phase-data-machine-learning-4c13c12852fa)
+Author: Jinhang Jiang  <br />
+Published on: towardsdatascience.com <br />
+Date: Nov 11, 2020 <br />
+Location: Arizona State University | *Tempe, AZ* <br />
+Description: Used the first 10 mins data from approximately 10K games to predict the results in high-ELO rank games.
+
+<a href="https://towardsdatascience.com/lol-match-prediction-using-early-laning-phase-data-machine-learning-4c13c12852fa">
+<img src="images/LOL2.jpg" width="500" height="175" alt="https://towardsdatascience.com/lol-match-prediction-using-early-laning-phase-data-machine-learning-4c13c12852fa">
+</a>
+
+<br />
 ## [Analyzing Disease Co-occurrence Using NetworkX, Gephi, and Node2Vec](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f)
 Author: Jinhang Jiang  | Instructor: Dr.[Karthik Srinivasan](https://business.ku.edu/karthik-srinivasan) <br />
 Published on: Analytics Vidhya's Medium Publication <br />
@@ -18,18 +42,6 @@ Description: I analyzed over 200 million EHR to build a network model, predictin
 
 <a href="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
 <img src="images/network-3849202_1920.jpg" width="500" height="175" alt="https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f">
-</a>
-
-<br />
-## [Incorporate Text Feature Into Classification Project](https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9)
-Author: Jinhang Jiang  <br />
-Published on: Medium.com <br />
-Date: Oct 31, 2020 <br />
-Location: Arizona State University | *Tempe, AZ* <br />
-Description: This project aimed to study how the unstructured text data could add values to a machine learning classification project.
-
-<a href="https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9">
-<img src="images/text.png" width="500" height="175" alt="https://jinhangjiang.medium.com/integrate-text-content-into-classification-project-eddd8e18a7e9">
 </a>
 
 <br />
