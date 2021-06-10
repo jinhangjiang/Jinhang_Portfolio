@@ -8,7 +8,6 @@
 
 
 # Featured Work
-<br />
 ## [Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT](https://towardsdatascience.com/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f)
 Author: Jinhang Jiang  <br />
 Published on: towardsdatascience.com <br />
