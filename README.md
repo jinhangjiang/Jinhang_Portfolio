@@ -8,6 +8,28 @@
 
 
 # Featured Work
+## [Visualize High-Dimensional Network Data with 3D 360-Degree-Animated Scatter Plot](https://towardsdatascience.com/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693)
+Author: Jinhang Jiang  <br />
+Published on: towardsdatascience.com <br />
+Date: June 25, 2021 <br />
+Description: Use node2vec, networkx, pca, seaborn, etc. to visualize high-dimensional network data.
+
+<a href="https://towardsdatascience.com/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693">
+<img src="images/360.png" width="500" height="175" alt="https://towardsdatascience.com/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693">
+</a>
+
+<br />
+## [NetworkX: Code Demo for Manipulating Subgraphs](https://towardsdatascience.com/networkx-code-demo-for-manipulating-subgraphs-e45320581d13)
+Author: Jinhang Jiang  <br />
+Published on: towardsdatascience.com <br />
+Date: June 6, 2021 <br />
+Description: Code demo for manipulating egonetworks using NetworkX in python.
+
+<a href="https://towardsdatascience.com/networkx-code-demo-for-manipulating-subgraphs-e45320581d13">
+<img src="images/egonetwork.png" width="500" height="175" alt="https://towardsdatascience.com/networkx-code-demo-for-manipulating-subgraphs-e45320581d13">
+</a>
+
+<br />
 ## [Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT](https://towardsdatascience.com/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f)
 Author: Jinhang Jiang  <br />
 Published on: towardsdatascience.com <br />
